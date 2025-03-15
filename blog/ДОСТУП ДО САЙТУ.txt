@@ -1,0 +1,7 @@
+WP:
+Log: admin
+Pass: 1
+
+BD:
+Log: root
+Pass:
